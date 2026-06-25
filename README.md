@@ -1,2 +1,4 @@
 # geometry_dash_jump
-Jump in real life to jump in geometry dash! 
+# Jump in real life to jump in geometry dash! 
+
+python3 jump.py to run
